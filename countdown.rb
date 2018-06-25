@@ -7,7 +7,7 @@ while x > 10
   x -= 1
   "#{x} SECOND(S)!"
   
-  return 
+  return "HAPPY NEW YEAR!"
   
 end
   
