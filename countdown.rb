@@ -4,8 +4,9 @@ def countdown(x)
   
   x = 10
 while x > 10
-  puts "HAPPY NEW YEAR!"
   x -= 1
+  puts "HAPPY NEW YEAR!"
+  
 end
   
   
